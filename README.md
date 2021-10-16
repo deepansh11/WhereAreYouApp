@@ -1,4 +1,4 @@
-# Where You At?
+# Where Are you?
 
 An app that allows you to pick a place via google maps and upload an image of that place via camera or gallery.
 
