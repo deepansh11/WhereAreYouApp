@@ -1,6 +1,7 @@
-# places_app
+# Where You At?
 
-A new Flutter project.
+An app that allows you to pick a place via google maps and upload an image of that place via camera or gallery.
+
 
 ## Getting Started
 
